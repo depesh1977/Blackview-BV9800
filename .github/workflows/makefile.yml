@@ -22,15 +22,15 @@ on:
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
-        default: 'main'
+        default: 'android_9'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/BQ/BQ5519G'
+        default: 'device/blackview/BV9800Pro'
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'BQ5519G'
+        default: 'BV9800Pro'
       DEVICE_TYPE:
         description: 'DEVICE_TYPE'
         required: true
